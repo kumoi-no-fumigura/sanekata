@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sanekata",
  "yomi": "さねかたあそんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期（10世紀）",
+  "author": "藤原実方（?〜998）",
+  "desc": "陸奥守として任地で没した藤原実方の家集。宮廷の女房たちとの機知に富む贈答が多い。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -1844,6 +1849,6 @@
   "poems": 159,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
